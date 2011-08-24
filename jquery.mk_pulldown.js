@@ -6,7 +6,7 @@
 	varsion     : 1.0
 	author      : http://www.makinokobo.com - oosugi
 	last update : 2010.10.20 - oosugi
-	Copyright   : Copyright (c) 2010 Skill Partners Inc. All Rights Reserved.
+	Copyright   : Copyright (c) 2011 Skill Partners Inc. All Rights Reserved.
 	
 	/////////////////////////////////////////////////////////////////////////
 	
